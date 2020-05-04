@@ -9,7 +9,7 @@ Clone the repository and open `index.html` in the web browser of your choice. :)
 
 ## Beginners
 
-I'm a Working Developer (TM) with 1.5 years of professional experience as of May 2020. Mostly, I work on back-end/data-engineering type stuff, so this isn't going to be a masterclass in incredibly slick...well, anything. However, I am a qualitatively different programmer than I was when I graduate from the <a href="www.carolinacodeschool.com"> Carolina Code School</a>, and in working on this site I have seen that it is very different from the kind of HTML/CSS I was writing back in the day. It may thus be helpful to beginning programmers who are still developing their rudimentary code instincts ("this is an elegant solution to this problem"/"should I actually even be solving this problem, or is this a bad design choice?"/"Oh, God, this would be a nightmare to maintain").
+I'm a Working Developer (TM) with 1.5 years of professional experience as of May 2020. Mostly, I work on back-end/data-engineering type stuff, so this isn't going to be a masterclass in incredibly slick...well, anything. However, I am a qualitatively different programmer than I was when I graduated from the <a href="www.carolinacodeschool.com"> Carolina Code School</a>, and in working on this site I have seen that it is very different from the kind of HTML/CSS I was writing back in the day. It may thus be helpful to beginning programmers who are still developing their rudimentary code instincts ("this is an elegant solution to this problem"/"should I actually even be solving this problem, or is this a bad design choice?"/"Oh, God, this would be a nightmare to maintain").
 
 ## Old hands who haven't done front-end in a while
 
